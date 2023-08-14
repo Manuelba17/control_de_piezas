@@ -41,4 +41,4 @@
 1. una pieza tiene una **categoria** (1 - 1)
 
 ## Entidad relación
-![Entidad relación]('/control_piezas.drawio.png')
+![Modelo relacional](./control_piezas.drawio.png)
