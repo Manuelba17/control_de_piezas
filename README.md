@@ -39,3 +39,6 @@
 
 1. Una pieza tiene muchos **proveedores** (1 - M)
 1. una pieza tiene una **categoria** (1 - 1)
+
+## Entidad relación
+![Entidad relación]('/control_piezas.drawio.png')
